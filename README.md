@@ -27,24 +27,24 @@ Atualmente à procura de oportunidades júnior em Full-Stack, Frontend ou Backen
 
 <table>
 <tr>
-<td width="130"><b>Frontend</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=svelte,ts,tailwind" alt="SvelteKit, TypeScript, Tailwind CSS" /></td>
+<td width="140" valign="middle"><b>Frontend</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=html,css,svelte,tailwind,shadcn" alt="HTML, CSS, SvelteKit, Tailwind CSS, shadcn-svelte" /></td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" /></td>
+<td valign="middle"><b>Backend</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" /></td>
 </tr>
 <tr>
-<td><b>Database</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
+<td valign="middle"><b>Database</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
 </tr>
 <tr>
-<td><b>POO</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+<td valign="middle"><b>POO</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
 </tr>
 <tr>
-<td><b>Ferramentas</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=docker,git,figma" alt="Docker, Git, Figma" /></td>
+<td valign="middle"><b>Ferramentas</b></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=docker,git,figma" alt="Docker, Git, Figma" /></td>
 </tr>
 </table>
 
