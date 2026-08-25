@@ -32,15 +32,19 @@ Atualmente à procura de oportunidades júnior em Full-Stack, Frontend ou Backen
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=py,fastapi" alt="Python, FastAPI" /></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" /></td>
 </tr>
 <tr>
 <td><b>Database</b></td>
 <td><img height="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
 </tr>
 <tr>
+<td><b>POO</b></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+</tr>
+<tr>
 <td><b>Ferramentas</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" /></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=docker,git,figma" alt="Docker, Git, Figma" /></td>
 </tr>
 </table>
 
