@@ -3,20 +3,16 @@
 <h3 align="center">Full-Stack Developer · Aveiro, Portugal</h3>
 
 <p align="center">
-  Building web applications from frontend to database.
-</p>
-
-<p align="center">
   <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32" alt="Portfólio" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="38" height="38" alt="Portfólio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="38" height="38" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:adriangsoares@outlook.com" title="Email">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="32" alt="Email" />
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" width="38" height="38" alt="Email" />
   </a>
 </p>
 
@@ -37,40 +33,40 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 ## 🛠️ Stack
 
 <table>
-<tr>
-<td width="140" valign="middle"><b>Frontend</b></td>
-<td valign="middle">
-  <img height="44" src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind" alt="HTML, CSS, JavaScript, TypeScript, SvelteKit, Tailwind CSS" />
-</td>
-</tr>
+  <tr>
+    <td width="140" valign="middle"><b>Frontend</b></td>
+    <td valign="middle">
+      <img height="44" src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind" alt="HTML, CSS, JavaScript, TypeScript, SvelteKit, Tailwind CSS" />
+    </td>
+  </tr>
 
-<tr>
-<td valign="middle"><b>Backend</b></td>
-<td valign="middle">
-  <img height="44" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" />
-</td>
-</tr>
+  <tr>
+    <td valign="middle"><b>Backend</b></td>
+    <td valign="middle">
+      <img height="44" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" />
+    </td>
+  </tr>
 
-<tr>
-<td valign="middle"><b>Base de Dados</b></td>
-<td valign="middle">
-  <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-</td>
-</tr>
+  <tr>
+    <td valign="middle"><b>Base de Dados</b></td>
+    <td valign="middle">
+      <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+    </td>
+  </tr>
 
-<tr>
-<td valign="middle"><b>POO</b></td>
-<td valign="middle">
-  <img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" />
-</td>
-</tr>
+  <tr>
+    <td valign="middle"><b>POO</b></td>
+    <td valign="middle">
+      <img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" />
+    </td>
+  </tr>
 
-<tr>
-<td valign="middle"><b>Ferramentas</b></td>
-<td valign="middle">
-  <img height="44" src="https://skillicons.dev/icons?i=docker,git,github,figma" alt="Docker, Git, GitHub, Figma" />
-</td>
-</tr>
+  <tr>
+    <td valign="middle"><b>Ferramentas</b></td>
+    <td valign="middle">
+      <img height="44" src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" alt="Docker, Git, GitHub, Figma, Visual Studio Code" />
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -79,27 +75,29 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 ### Plataforma de Gestão de Recursos Humanos
 
-Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos relacionados com colaboradores e administração.
+Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos relacionados com colaboradores e administração.
 
 ### Principais funcionalidades
 
 - Registo de assiduidade e horas trabalhadas
 - Registo de entrada, saída e intervalo de almoço
 - Pedidos de férias com fluxo de aprovação
-- Gestão de ausências
+- Gestão de ausências e feriados
 - Gestão de formações e certificados
 - Relatórios mensais em PDF
 - Exportação de dados
 - Gestão de utilizadores
 - Áreas separadas para colaboradores e administradores
-- Autenticação JWT
+- Autenticação através de JWT
 - Controlo de acesso por perfil
+- Upload de CV e certificados
+- Recuperação e alteração de palavra-passe
 - Suporte para português e inglês
 - Modo claro e escuro
 
-### Tecnologias
+### Tecnologias utilizadas
 
-`SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `Python` `PostgreSQL` `Docker` `JWT`
+`SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `Python` `SQLAlchemy` `PostgreSQL` `Docker` `JWT`
 
 > 🔒 O código encontra-se privado por ter sido desenvolvido no contexto de um estágio.
 >
@@ -110,8 +108,16 @@ Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutio
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
 </p>
 
 <br>
@@ -119,20 +125,20 @@ Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutio
 ## 📫 Contacto
 
 <p align="center">
-  Aberto a novas oportunidades e projetos.
+  Estou disponível para novas oportunidades e projetos.
 </p>
 
 <p align="center">
   <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="Portfólio" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="34" height="34" alt="Portfólio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="34" height="34" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:adriangsoares@outlook.com" title="Email">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="30" alt="Email" />
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" width="34" height="34" alt="Email" />
   </a>
 </p>
 
