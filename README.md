@@ -28,19 +28,19 @@ Atualmente à procura de oportunidades júnior em Full-Stack, Frontend ou Backen
 <table>
 <tr>
 <td width="130"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=svelte,ts,tailwind" alt="SvelteKit, TypeScript, Tailwind CSS" /></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=svelte,ts,tailwind" alt="SvelteKit, TypeScript, Tailwind CSS" /></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,fastapi" alt="Python, FastAPI" /></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=py,fastapi" alt="Python, FastAPI" /></td>
 </tr>
 <tr>
 <td><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
 </tr>
 <tr>
 <td><b>Ferramentas</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" /></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" /></td>
 </tr>
 </table>
 
@@ -66,13 +66,6 @@ Desenvolvida durante o meu estágio na WiseWare Solutions. Reúne fluxos de cola
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
-<br>
-
-<p align="center"><sub>Interfaces limpas, código sustentável e software que serve para alguma coisa.</sub></p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
