@@ -56,8 +56,8 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <a href="https://www.ua.pt/pt/estga">
   <img
-    src="./assets/estga.png"
-    width="165"
+    src="https://raw.githubusercontent.com/linsix666/linsix666/main/estga.png"
+    width="180"
     alt="ESTGA - Universidade de Aveiro"
   />
 </a>
