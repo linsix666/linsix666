@@ -4,15 +4,32 @@
 
 <p align="center">
   <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="38" height="38" alt="Portfólio" />
+    <img
+      src="https://img.icons8.com/fluency/48/domain.png"
+      width="38"
+      height="38"
+      alt="Portfólio"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="38" height="38" alt="LinkedIn" />
+    <img
+      src="https://img.icons8.com/color/48/linkedin.png"
+      width="38"
+      height="38"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:adriangsoares@outlook.com" title="Email">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" width="38" height="38" alt="Email" />
+    <img
+      src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png"
+      width="38"
+      height="38"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -35,12 +52,12 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 <table>
 <tr>
 
-<td width="200" align="center" valign="middle">
+<td width="220" align="center" valign="middle">
 
 <a href="https://www.ua.pt/pt/estga">
   <img
-    src="https://tecla.estga.ua.pt/img/estga.jpg"
-    width="160"
+    src="./assets/estga.png"
+    width="165"
     alt="ESTGA - Universidade de Aveiro"
   />
 </a>
@@ -49,17 +66,23 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <td valign="middle">
 
-### CTeSP · Programação de Sistemas de Informação
+<h3>CTeSP · Programação de Sistemas de Informação</h3>
 
-**ESTGA — Escola Superior de Tecnologia e Gestão de Águeda**  
-**Universidade de Aveiro**
+<b>ESTGA — Escola Superior de Tecnologia e Gestão de Águeda</b><br>
+Universidade de Aveiro
 
-📅 **2024 — 2026**  
-🎓 **2 anos · 120 ECTS**
+<br>
 
-Formação orientada para o desenvolvimento de software e sistemas de informação, abrangendo programação, desenvolvimento web, bases de dados, engenharia de software e programação orientada por objetos.
+📅 <b>2024 — 2026</b><br>
+🎓 <b>2 anos · 120 ECTS</b>
 
-O curso terminou com um **estágio curricular de 680 horas**, onde tive a oportunidade de aplicar estes conhecimentos no desenvolvimento de uma aplicação Full-Stack em contexto profissional.
+<br><br>
+
+Formação orientada para o desenvolvimento de software e sistemas de informação, abrangendo programação, desenvolvimento web, bases de dados e programação orientada por objetos.
+
+<br><br>
+
+O curso terminou com um <b>estágio curricular de 680 horas</b>, onde apliquei estes conhecimentos no desenvolvimento de uma aplicação Full-Stack em contexto profissional.
 
 </td>
 
@@ -70,10 +93,10 @@ O curso terminou com um **estágio curricular de 680 horas**, onde tive a oportu
 
 - Algoritmia e Programação
 - Programação Orientada por Objetos
-- Desenvolvimento e Tecnologias Web
-- Bases de Dados Relacionais e SQL
+- Desenvolvimento Web
+- Bases de Dados Relacionais
+- SQL
 - Engenharia de Software
-- Testes e Qualidade de Software
 - Sistemas de Informação
 - Redes e Sistemas Operativos
 - Projeto de Programação
@@ -84,40 +107,62 @@ O curso terminou com um **estágio curricular de 680 horas**, onde tive a oportu
 ## 🛠️ Stack
 
 <table>
-  <tr>
-    <td width="140" valign="middle"><b>Frontend</b></td>
-    <td valign="middle">
-      <img height="44" src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind" alt="HTML, CSS, JavaScript, TypeScript, SvelteKit, Tailwind CSS" />
-    </td>
-  </tr>
 
-  <tr>
-    <td valign="middle"><b>Backend</b></td>
-    <td valign="middle">
-      <img height="44" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" />
-    </td>
-  </tr>
+<tr>
+<td width="140" valign="middle"><b>Frontend</b></td>
+<td valign="middle">
+  <img
+    height="44"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind"
+    alt="HTML, CSS, JavaScript, TypeScript, SvelteKit, Tailwind CSS"
+  />
+</td>
+</tr>
 
-  <tr>
-    <td valign="middle"><b>Base de Dados</b></td>
-    <td valign="middle">
-      <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-    </td>
-  </tr>
+<tr>
+<td valign="middle"><b>Backend</b></td>
+<td valign="middle">
+  <img
+    height="44"
+    src="https://skillicons.dev/icons?i=py,fastapi,django"
+    alt="Python, FastAPI, Django"
+  />
+</td>
+</tr>
 
-  <tr>
-    <td valign="middle"><b>POO</b></td>
-    <td valign="middle">
-      <img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" />
-    </td>
-  </tr>
+<tr>
+<td valign="middle"><b>Base de Dados</b></td>
+<td valign="middle">
+  <img
+    height="44"
+    src="https://skillicons.dev/icons?i=postgres"
+    alt="PostgreSQL"
+  />
+</td>
+</tr>
 
-  <tr>
-    <td valign="middle"><b>Ferramentas</b></td>
-    <td valign="middle">
-      <img height="44" src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" alt="Docker, Git, GitHub, Figma, Visual Studio Code" />
-    </td>
-  </tr>
+<tr>
+<td valign="middle"><b>POO</b></td>
+<td valign="middle">
+  <img
+    height="44"
+    src="https://skillicons.dev/icons?i=java"
+    alt="Java"
+  />
+</td>
+</tr>
+
+<tr>
+<td valign="middle"><b>Ferramentas</b></td>
+<td valign="middle">
+  <img
+    height="44"
+    src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode"
+    alt="Docker, Git, GitHub, Figma, Visual Studio Code"
+  />
+</td>
+</tr>
+
 </table>
 
 <br>
@@ -126,7 +171,7 @@ O curso terminou com um **estágio curricular de 680 horas**, onde tive a oportu
 
 ### Plataforma de Gestão de Recursos Humanos
 
-Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos relacionados com colaboradores e administração.
+Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos internos relacionados com colaboradores e administração.
 
 ### Principais funcionalidades
 
@@ -134,14 +179,15 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
 - Registo de entrada, saída e intervalo de almoço
 - Pedidos de férias com fluxo de aprovação
 - Gestão de ausências e feriados
-- Gestão de formações e certificados
+- Gestão de formações
+- Upload e visualização de certificados
 - Relatórios mensais em PDF
 - Exportação de dados
 - Gestão de utilizadores
 - Áreas separadas para colaboradores e administradores
-- Autenticação através de JWT
+- Autenticação JWT
 - Controlo de acesso por perfil
-- Upload de CV e certificados
+- Upload e visualização de CV
 - Recuperação e alteração de palavra-passe
 - Suporte para português e inglês
 - Modo claro e escuro
@@ -164,6 +210,7 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
     src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=transparent"
     alt="GitHub Stats"
   />
+
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=transparent"
@@ -180,17 +227,38 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
 </p>
 
 <p align="center">
+
   <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="34" height="34" alt="Portfólio" />
+    <img
+      src="https://img.icons8.com/fluency/48/domain.png"
+      width="34"
+      height="34"
+      alt="Portfólio"
+    />
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="34" height="34" alt="LinkedIn" />
+    <img
+      src="https://img.icons8.com/color/48/linkedin.png"
+      width="34"
+      height="34"
+      alt="LinkedIn"
+    />
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:adriangsoares@outlook.com" title="Email">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" width="34" height="34" alt="Email" />
+    <img
+      src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png"
+      width="34"
+      height="34"
+      alt="Email"
+    />
   </a>
+
 </p>
 
 <br>
@@ -198,5 +266,7 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
 ---
 
 <p align="center">
-  <sub>Interfaces limpas · Código sustentável · Software pensado para utilização real</sub>
+  <sub>
+    Interfaces limpas · Código sustentável · Software pensado para utilização real
+  </sub>
 </p>
