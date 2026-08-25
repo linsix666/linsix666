@@ -92,6 +92,8 @@ O curso terminou com um **estágio curricular de 680 horas**, onde apliquei este
 - Projeto de Programação
 - Estágio curricular em contexto empresarial
 
+<br>
+
 ## 🛠️ Stack
 
 <table>
