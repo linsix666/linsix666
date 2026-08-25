@@ -27,32 +27,20 @@ Atualmente à procura de oportunidades júnior em Full-Stack, Frontend ou Backen
 
 <table>
 <tr>
-<td><b>Frontend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</td>
+<td width="130"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=svelte,ts,tailwind" alt="SvelteKit, TypeScript, Tailwind CSS" /></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=py,fastapi" alt="Python, FastAPI" /></td>
 </tr>
 <tr>
 <td><b>Database</b></td>
-<td>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
 </tr>
 <tr>
 <td><b>Ferramentas</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git" /></td>
 </tr>
 </table>
 
@@ -78,6 +66,13 @@ Desenvolvida durante o meu estágio na WiseWare Solutions. Reúne fluxos de cola
 <br>
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+
+<br>
+
+<p align="center"><sub>Interfaces limpas, código sustentável e software que serve para alguma coisa.</sub></p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
