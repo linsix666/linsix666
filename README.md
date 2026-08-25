@@ -54,7 +54,7 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 <td width="240" align="center" valign="middle">
   <a href="https://www.ua.pt/pt">
     <img
-      src="https://raw.githubusercontent.com/linsix666/linsix666/main/ua.png"
+      src="https://raw.githubusercontent.com/linsix666/linsix666/main/estga.png"
       width="180"
       alt="Universidade de Aveiro"
     />
