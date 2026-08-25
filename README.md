@@ -51,41 +51,31 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <table>
 <tr>
-
-<td width="220" align="center" valign="middle">
-
-<a href="https://www.ua.pt/pt/estga">
-  <img
-    src="https://raw.githubusercontent.com/linsix666/linsix666/main/estga.png"
-    width="180"
-    alt="ESTGA - Universidade de Aveiro"
-  />
-</a>
-
+<td width="170" align="center" valign="top">
+  <a href="https://www.ua.pt/pt/estga">
+    <img
+      src="https://raw.githubusercontent.com/linsix666/linsix666/main/estga.png"
+      width="140"
+      alt="ESTGA - Universidade de Aveiro"
+    />
+  </a>
 </td>
 
-<td valign="middle">
+<td valign="top">
 
-<h3>CTeSP · Programação de Sistemas de Informação</h3>
+### CTeSP · Programação de Sistemas de Informação
 
-<b>ESTGA — Escola Superior de Tecnologia e Gestão de Águeda</b><br>
+**ESTGA — Escola Superior de Tecnologia e Gestão de Águeda**  
 Universidade de Aveiro
 
-<br>
-
-📅 <b>2024 — 2026</b><br>
-🎓 <b>2 anos · 120 ECTS</b>
-
-<br><br>
+📅 **2024 — 2026**  
+🎓 **2 anos · 120 ECTS**
 
 Formação orientada para o desenvolvimento de software e sistemas de informação, abrangendo programação, desenvolvimento web, bases de dados e programação orientada por objetos.
 
-<br><br>
-
-O curso terminou com um <b>estágio curricular de 680 horas</b>, onde apliquei estes conhecimentos no desenvolvimento de uma aplicação Full-Stack em contexto profissional.
+O curso terminou com um **estágio curricular de 680 horas**, onde apliquei estes conhecimentos no desenvolvimento de uma aplicação Full-Stack em contexto profissional.
 
 </td>
-
 </tr>
 </table>
 
@@ -101,8 +91,6 @@ O curso terminou com um <b>estágio curricular de 680 horas</b>, onde apliquei e
 - Redes e Sistemas Operativos
 - Projeto de Programação
 - Estágio curricular em contexto empresarial
-
-<br>
 
 ## 🛠️ Stack
 
