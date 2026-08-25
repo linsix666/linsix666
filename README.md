@@ -28,7 +28,7 @@ Atualmente à procura de oportunidades júnior em Full-Stack, Frontend ou Backen
 <table>
 <tr>
 <td width="140" valign="middle"><b>Frontend</b></td>
-<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=html,css,svelte,tailwind,shadcn" alt="HTML, CSS, SvelteKit, Tailwind CSS, shadcn-svelte" /></td>
+<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=html,css,js,svelte,tailwind,shadcn" alt="HTML, CSS, JavaScript, SvelteKit, Tailwind CSS, shadcn-svelte" /></td>
 </tr>
 <tr>
 <td valign="middle"><b>Backend</b></td>
