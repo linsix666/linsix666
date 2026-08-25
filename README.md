@@ -1,6 +1,6 @@
-<h1 align="center">Adrian Soares</h1>
+<h1 align="center">Full-Stack Developer</h1>
 
-<h3 align="center">Full-Stack Developer · Aveiro, Portugal</h3>
+<h3 align="center">Aveiro, Portugal</h3>
 
 <p align="center">
   <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
