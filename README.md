@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://linsix666.github.io/adrian-portfolio/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32" alt="Portfólio" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adrian-da-silva-soares">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:adriangsoares@outlook.com">
-    <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adriangsoares@outlook.com" title="Email">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="32" alt="Email" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 ### Plataforma de Gestão de Recursos Humanos
 
-Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos internos relacionados com colaboradores e administração.
+Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos relacionados com colaboradores e administração.
 
 ### Principais funcionalidades
 
@@ -94,15 +94,14 @@ Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutio
 - Áreas separadas para colaboradores e administradores
 - Autenticação JWT
 - Controlo de acesso por perfil
-- Interface responsiva
 - Suporte para português e inglês
 - Modo claro e escuro
 
-### Tecnologias utilizadas
+### Tecnologias
 
 `SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `Python` `PostgreSQL` `Docker` `JWT`
 
-> 🔒 O código encontra-se privado por ter sido desenvolvido no contexto de um estágio profissional.
+> 🔒 O código encontra-se privado por ter sido desenvolvido no contexto de um estágio.
 >
 > Screenshots, funcionalidades e mais informações estão disponíveis no meu [portfólio](https://linsix666.github.io/adrian-portfolio/).
 
@@ -120,20 +119,20 @@ Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutio
 ## 📫 Contacto
 
 <p align="center">
-  Estou disponível para novas oportunidades e projetos.
+  Aberto a novas oportunidades e projetos.
 </p>
 
 <p align="center">
-  <a href="https://linsix666.github.io/adrian-portfolio/">
-    <img src="https://img.shields.io/badge/Ver_Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="Portfólio" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adrian-da-silva-soares">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:adriangsoares@outlook.com">
-    <img src="https://img.shields.io/badge/Contactar-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adriangsoares@outlook.com" title="Email">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="30" alt="Email" />
   </a>
 </p>
 
