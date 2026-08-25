@@ -51,12 +51,12 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <table>
 <tr>
-<td width="170" align="center" valign="top">
-  <a href="https://www.ua.pt/pt/estga">
+<td width="240" align="center" valign="middle">
+  <a href="https://www.ua.pt/pt">
     <img
-      src="https://raw.githubusercontent.com/linsix666/linsix666/main/estga.png"
-      width="140"
-      alt="ESTGA - Universidade de Aveiro"
+      src="https://raw.githubusercontent.com/linsix666/linsix666/main/ua.png"
+      width="180"
+      alt="Universidade de Aveiro"
     />
   </a>
 </td>
@@ -66,7 +66,7 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 ### CTeSP · Programação de Sistemas de Informação
 
 **ESTGA — Escola Superior de Tecnologia e Gestão de Águeda**  
-Universidade de Aveiro
+**Universidade de Aveiro**
 
 📅 **2024 — 2026**  
 🎓 **2 anos · 120 ECTS**
