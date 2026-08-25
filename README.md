@@ -1,79 +1,146 @@
 <h1 align="center">Adrian Soares</h1>
+
 <h3 align="center">Full-Stack Developer · Aveiro, Portugal</h3>
 
 <p align="center">
+  Building web applications from frontend to database.
+</p>
+
+<p align="center">
   <a href="https://linsix666.github.io/adrian-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFÓLIO-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/adrian-da-silva-soares">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:adriangsoares@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <br>
 
-Sou developer Full-Stack, formado em CTeSP de Programação de Sistemas de Informação pela ESTGA (Universidade de Aveiro). Gosto de trabalhar em todo o stack — frontend, backend e base de dados — e de construir coisas que as pessoas realmente usam, não apenas demos.
+## 👋 Sobre mim
 
-Durante o meu estágio de 680 horas na WiseWare Solutions, desenvolvi de raiz uma plataforma de gestão de RH full-stack, hoje o meu principal projeto de portfólio.
+Sou **Full-Stack Developer**, formado em CTeSP de **Programação de Sistemas de Informação** pela ESTGA — Universidade de Aveiro.
 
-Atualmente à procura de oportunidades júnior em Full-Stack, Frontend ou Backend, em Portugal ou remoto.
+Gosto de trabalhar em todo o stack — **frontend, backend e base de dados** — e de desenvolver aplicações completas, funcionais e pensadas para utilização real.
+
+Durante o meu estágio de **680 horas na WiseWare Solutions**, desenvolvi de raiz uma plataforma web de gestão de Recursos Humanos, atualmente o meu principal projeto de portfólio.
+
+Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend ou Backend**, em Portugal ou em regime remoto.
 
 <br>
 
-## Stack
+## 🛠️ Stack
 
 <table>
 <tr>
 <td width="140" valign="middle"><b>Frontend</b></td>
-<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=html,css,js,svelte,tailwind,shadcn" alt="HTML, CSS, JavaScript, SvelteKit, Tailwind CSS, shadcn-svelte" /></td>
+<td valign="middle">
+  <img height="44" src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind" alt="HTML, CSS, JavaScript, TypeScript, SvelteKit, Tailwind CSS" />
+</td>
 </tr>
+
 <tr>
 <td valign="middle"><b>Backend</b></td>
-<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" /></td>
+<td valign="middle">
+  <img height="44" src="https://skillicons.dev/icons?i=py,fastapi,django" alt="Python, FastAPI, Django" />
+</td>
 </tr>
+
 <tr>
-<td valign="middle"><b>Database</b></td>
-<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
+<td valign="middle"><b>Base de Dados</b></td>
+<td valign="middle">
+  <img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+</td>
 </tr>
+
 <tr>
 <td valign="middle"><b>POO</b></td>
-<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+<td valign="middle">
+  <img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" />
+</td>
 </tr>
+
 <tr>
 <td valign="middle"><b>Ferramentas</b></td>
-<td valign="middle"><img height="44" src="https://skillicons.dev/icons?i=docker,git,figma" alt="Docker, Git, Figma" /></td>
+<td valign="middle">
+  <img height="44" src="https://skillicons.dev/icons?i=docker,git,github,figma" alt="Docker, Git, GitHub, Figma" />
+</td>
 </tr>
 </table>
 
 <br>
 
-## Projeto em destaque
+## 🚀 Projeto em destaque
 
-### Plataforma de Gestão de RH
+### Plataforma de Gestão de Recursos Humanos
 
-Desenvolvida durante o meu estágio na WiseWare Solutions. Reúne fluxos de colaboradores e administradores num único sistema:
+Aplicação Full-Stack desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos internos relacionados com colaboradores e administração.
+
+### Principais funcionalidades
 
 - Registo de assiduidade e horas trabalhadas
+- Registo de entrada, saída e intervalo de almoço
 - Pedidos de férias com fluxo de aprovação
-- Registo de formações e certificados
-- Relatórios mensais e exportação de dados
-- Áreas separadas para colaborador e administrador
-- Autenticação JWT com controlo de acesso por perfil
+- Gestão de ausências
+- Gestão de formações e certificados
+- Relatórios mensais em PDF
+- Exportação de dados
+- Gestão de utilizadores
+- Áreas separadas para colaboradores e administradores
+- Autenticação JWT
+- Controlo de acesso por perfil
+- Interface responsiva
+- Suporte para português e inglês
+- Modo claro e escuro
 
-`SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `PostgreSQL` `Docker`
+### Tecnologias utilizadas
 
-> O código é privado por se tratar de um projeto de estágio profissional. Screenshots e mais detalhes no meu [portfólio](https://linsix666.github.io/adrian-portfolio/).
+`SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `Python` `PostgreSQL` `Docker` `JWT`
+
+> 🔒 O código encontra-se privado por ter sido desenvolvido no contexto de um estágio profissional.
+>
+> Screenshots, funcionalidades e mais informações estão disponíveis no meu [portfólio](https://linsix666.github.io/adrian-portfolio/).
 
 <br>
 
+## 📊 GitHub
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
 <br>
 
-<p align="center"><sub>Interfaces limpas, código sustentável e software que serve para alguma coisa.</sub></p>
+## 📫 Contacto
+
+<p align="center">
+  Estou disponível para novas oportunidades e projetos.
+</p>
+
+<p align="center">
+  <a href="https://linsix666.github.io/adrian-portfolio/">
+    <img src="https://img.shields.io/badge/Ver_Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adrian-da-silva-soares">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:adriangsoares@outlook.com">
+    <img src="https://img.shields.io/badge/Contactar-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>Interfaces limpas · Código sustentável · Software pensado para utilização real</sub>
+</p>
