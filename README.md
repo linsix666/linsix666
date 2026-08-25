@@ -47,30 +47,6 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <br>
 
-<p>
-  <img
-    src="https://flagcdn.com/ve.svg"
-    width="55"
-    alt="Venezuela"
-    title="Venezuela"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://flagcdn.com/pt.svg"
-    width="55"
-    alt="Portugal"
-    title="Portugal"
-  />
-</p>
-
-<p>
-  Sou <b>venezuelano e português</b>, atualmente a viver em <b>Portugal</b>.
-</p>
-
-<p>
-  Esta ligação entre os dois países faz parte do meu percurso pessoal e profissional.
-</p>
-
 ## 🎓 Formação
 
 <table>
@@ -215,6 +191,33 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
 > Screenshots, funcionalidades e mais informações estão disponíveis no meu [portfólio](https://linsix666.github.io/adrian-portfolio/).
 
 <br>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://flagcdn.com/ve.svg"
+    width="75"
+    alt="Venezuela"
+    title="Venezuela"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://flagcdn.com/pt.svg"
+    width="75"
+    alt="Portugal"
+    title="Portugal"
+  />
+</p>
+
+<h3 align="center">
+  Venezuela 🇻🇪 &nbsp;·&nbsp; Portugal 🇵🇹
+</h3>
+
+<p align="center">
+  <b>Venezuelano e português</b><br>
+  Atualmente a viver em <b>Portugal</b>.
+</p>
 
 ## 📊 GitHub
 
