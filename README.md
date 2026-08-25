@@ -186,12 +186,6 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
 
 `SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `Python` `SQLAlchemy` `PostgreSQL` `Docker` `JWT`
 
-> 🔒 O código encontra-se privado por ter sido desenvolvido no contexto de um estágio.
->
-> Screenshots, funcionalidades e mais informações estão disponíveis no meu [portfólio](https://linsix666.github.io/adrian-portfolio/).
-
-<br>
-
 <br>
 
 <p align="center">
@@ -219,71 +213,3 @@ Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Sol
   Atualmente a viver em <b>Portugal</b>.
 </p>
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=linsix666&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsix666&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-  />
-</p>
-
-<br>
-
-## 📫 Contacto
-
-<p align="center">
-  Estou disponível para novas oportunidades e projetos.
-</p>
-
-<p align="center">
-
-  <a href="https://linsix666.github.io/adrian-portfolio/" title="Portfólio">
-    <img
-      src="https://img.icons8.com/fluency/48/domain.png"
-      width="34"
-      height="34"
-      alt="Portfólio"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/adrian-da-silva-soares" title="LinkedIn">
-    <img
-      src="https://img.icons8.com/color/48/linkedin.png"
-      width="34"
-      height="34"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:adriangsoares@outlook.com" title="Email">
-    <img
-      src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png"
-      width="34"
-      height="34"
-      alt="Email"
-    />
-  </a>
-
-</p>
-
-<br>
-
----
-
-<p align="center">
-  <sub>
-    Interfaces limpas · Código sustentável · Software pensado para utilização real
-  </sub>
-</p>
