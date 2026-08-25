@@ -30,6 +30,57 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <br>
 
+## 🎓 Formação
+
+<table>
+<tr>
+
+<td width="200" align="center" valign="middle">
+
+<a href="https://www.ua.pt/pt/estga">
+  <img
+    src="https://tecla.estga.ua.pt/img/estga.jpg"
+    width="160"
+    alt="ESTGA - Universidade de Aveiro"
+  />
+</a>
+
+</td>
+
+<td valign="middle">
+
+### CTeSP · Programação de Sistemas de Informação
+
+**ESTGA — Escola Superior de Tecnologia e Gestão de Águeda**  
+**Universidade de Aveiro**
+
+📅 **2024 — 2026**  
+🎓 **2 anos · 120 ECTS**
+
+Formação orientada para o desenvolvimento de software e sistemas de informação, abrangendo programação, desenvolvimento web, bases de dados, engenharia de software e programação orientada por objetos.
+
+O curso terminou com um **estágio curricular de 680 horas**, onde tive a oportunidade de aplicar estes conhecimentos no desenvolvimento de uma aplicação Full-Stack em contexto profissional.
+
+</td>
+
+</tr>
+</table>
+
+### Principais áreas de formação
+
+- Algoritmia e Programação
+- Programação Orientada por Objetos
+- Desenvolvimento e Tecnologias Web
+- Bases de Dados Relacionais e SQL
+- Engenharia de Software
+- Testes e Qualidade de Software
+- Sistemas de Informação
+- Redes e Sistemas Operativos
+- Projeto de Programação
+- Estágio curricular em contexto empresarial
+
+<br>
+
 ## 🛠️ Stack
 
 <table>
