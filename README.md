@@ -47,6 +47,24 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <br>
 
+<p>
+  <img
+    src="https://flagcdn.com/w40/ve.png"
+    width="28"
+    alt="Bandeira da Venezuela"
+  />
+  &nbsp;
+  <img
+    src="https://flagcdn.com/w40/pt.png"
+    width="28"
+    alt="Bandeira de Portugal"
+  />
+</p>
+
+Sou **venezuelano e português**, atualmente a viver em **Portugal**.
+
+Esta ligação entre os dois países faz parte do meu percurso pessoal e profissional.
+
 ## 🎓 Formação
 
 <table>
