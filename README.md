@@ -163,28 +163,29 @@ The course ended with a **680-hour curricular internship**, where I applied thes
 
 ### Plataforma de Gestão de Recursos Humanos
 
-Aplicação **Full-Stack** desenvolvida durante o meu estágio na **WiseWare Solutions**, criada para centralizar diferentes processos internos relacionados com colaboradores e administração.
+Aplicação **Full-Stack** desenvolvida durante o meu estágio, criada para centralizar diferentes processos internos relacionados com colaboradores e administração.
 
-### Principais funcionalidades
+### Main Features
 
-- Registo de assiduidade e horas trabalhadas
-- Registo de entrada, saída e intervalo de almoço
-- Pedidos de férias com fluxo de aprovação
-- Gestão de ausências e feriados
-- Gestão de formações
-- Upload e visualização de certificados
-- Relatórios mensais em PDF
-- Exportação de dados
-- Gestão de utilizadores
-- Áreas separadas para colaboradores e administradores
-- Autenticação JWT
-- Controlo de acesso por perfil
-- Upload e visualização de CV
-- Recuperação e alteração de palavra-passe
-- Suporte para português e inglês
-- Modo claro e escuro
+* Attendance and working hours tracking
+* Clock-in, clock-out, and lunch break records
+* Leave requests with approval workflow
+* Absence and holiday management
+* Training management
+* Certificate upload and viewing
+* Monthly PDF reports
+* Data export
+* User management
+* Separate areas for employees and administrators
+* JWT authentication
+* Role-based access control
+* CV upload and viewing
+* Password recovery and change
+* Portuguese and English support
+* Light and dark mode
 
-### Tecnologias utilizadas
+### Technologies Used
+
 
 `SvelteKit` `TypeScript` `Tailwind CSS` `shadcn-svelte` `FastAPI` `Python` `SQLAlchemy` `PostgreSQL` `Docker` `JWT`
 
