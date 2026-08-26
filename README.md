@@ -35,19 +35,20 @@
 
 <br>
 
-## 👋 Sobre mim
+## 👋 About Me
 
-Sou **Full-Stack Developer**, formado em CTeSP de **Programação de Sistemas de Informação** pela ESTGA — Universidade de Aveiro.
+I am a **Full-Stack Developer** with a Higher Professional Technician in **Information Systems Programming** from School of Techonology and Management of Águeda — University of Aveiro.
 
-Gosto de trabalhar em todo o stack — **frontend, backend e base de dados** — e de desenvolver aplicações completas, funcionais e pensadas para utilização real.
+I like working across the full stack — **frontend, backend, and databases** — and building complete and useful applications.
 
-Durante o meu estágio de **680 horas na WiseWare Solutions**, desenvolvi de raiz uma plataforma web de gestão de Recursos Humanos, atualmente o meu principal projeto de portfólio.
+During my **curricular internship**, I built a **web platform for attendance and leave management**.
 
-Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend ou Backend**, em Portugal ou em regime remoto.
+I am currently looking for **junior Full-Stack, Frontend, or Backend opportunities**, in Portugal or remote.
+
 
 <br>
 
-## 🎓 Formação
+## 🎓 Formation
 
 <table>
 <tr>
@@ -63,34 +64,35 @@ Atualmente estou à procura de oportunidades **júnior em Full-Stack, Frontend o
 
 <td valign="top">
 
-### CTeSP · Programação de Sistemas de Informação
+### Information Systems Programming
 
-**ESTGA — Escola Superior de Tecnologia e Gestão de Águeda**  
-**Universidade de Aveiro**
+**School of Technology and Management of Águeda**  
+**University of Aveiro**
 
 📅 **2024 — 2026**  
-🎓 **2 anos · 120 ECTS**
+🎓 **2 years · 120 ECTS**
 
-Formação orientada para o desenvolvimento de software e sistemas de informação, abrangendo programação, desenvolvimento web, bases de dados e programação orientada por objetos.
+Course focused on **software development and information systems**, including programming, web development, databases, and object-oriented programming.
 
-O curso terminou com um **estágio curricular de 680 horas**, onde apliquei estes conhecimentos no desenvolvimento de uma aplicação Full-Stack em contexto profissional.
+The course ended with a **680-hour curricular internship**, where I applied these skills by developing a Full-Stack application in a professional environment.
+
 
 </td>
 </tr>
 </table>
 
-### Principais áreas de formação
+### Main areas of study
 
-- Algoritmia e Programação
-- Programação Orientada por Objetos
-- Desenvolvimento Web
-- Bases de Dados Relacionais
+- Algorithms and Programming
+- Object-Oriented Programming
+- Web Development
+- Relational Database Design
 - SQL
-- Engenharia de Software
-- Sistemas de Informação
-- Redes e Sistemas Operativos
-- Projeto de Programação
-- Estágio curricular em contexto empresarial
+- Software Engineering
+- Information Systems
+- Networks and Operating Systems
+- Programming Project
+- Curricular Internship in a Professional Environment
 
 <br>
 
@@ -121,7 +123,7 @@ O curso terminou com um **estágio curricular de 680 horas**, onde apliquei este
 </tr>
 
 <tr>
-<td valign="middle"><b>Base de Dados</b></td>
+<td valign="middle"><b>Database</b></td>
 <td valign="middle">
   <img
     height="44"
@@ -132,7 +134,7 @@ O curso terminou com um **estágio curricular de 680 horas**, onde apliquei este
 </tr>
 
 <tr>
-<td valign="middle"><b>POO</b></td>
+<td valign="middle"><b>OOP</b></td>
 <td valign="middle">
   <img
     height="44"
@@ -143,7 +145,7 @@ O curso terminou com um **estágio curricular de 680 horas**, onde apliquei este
 </tr>
 
 <tr>
-<td valign="middle"><b>Ferramentas</b></td>
+<td valign="middle"><b>Tools</b></td>
 <td valign="middle">
   <img
     height="44"
@@ -157,7 +159,7 @@ O curso terminou com um **estágio curricular de 680 horas**, onde apliquei este
 
 <br>
 
-## 🚀 Projeto em destaque
+## 🚀 Featured Project
 
 ### Plataforma de Gestão de Recursos Humanos
 
